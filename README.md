@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\ARPITA\Downloads\banner.png.png" alt="Arpita ⚡ Building on Web3" />
+  <img src="file:///C:/Users/ARPITA/Downloads/Banner.png" alt="Arpita ⚡ Building on Web3" />
 </p>
 
 # Hey 👋 I'm Arpita  
