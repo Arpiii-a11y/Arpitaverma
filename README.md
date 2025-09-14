@@ -1,5 +1,7 @@
-# Arpitaverma
-About me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arpitaverma/arpitaverma/main/banner.png" alt="Arpita ⚡ Building on Web3" />
+</p>
+
 # Hey 👋 I'm Arpita  
 
 💡 BSc Blockchain Technology student | Web3 enthusiast | Building my journey one block at a time  
@@ -45,15 +47,10 @@ About me
 
 ---
 
-## 🐍 Contribution Snake  
-![snake gif](https://github.com/arpitaverma/arpitaverma/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Connect With Me  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)  
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/arpitav7157?t=AT15zv8d9i2ocNx7syck4A&s=08)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpita-verma-079879236)  
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:@gmail.com)  
 
 ---
 ✨ *“Just a student building blocks into worlds.”*  
